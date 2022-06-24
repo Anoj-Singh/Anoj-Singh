@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anoj-Singh
-- 👀 I’m interested in ...
-- 🌱 ’m currently learning Full-Stack Development
+- 👀 I’m interested in MERN stack
+- 🌱 ’m currently learning Full-Stack Development(MERN)
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 How to reach me anojsingh9871@gmail.com
 

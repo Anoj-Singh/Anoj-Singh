@@ -5,9 +5,6 @@
 - 📫 How to reach me anojsingh9871@gmail.com
 
 
-Linked In Profile
-my Linkedin https://www.linkedin.com/in/anoj-singh-867337205/
-
 <!---
 Anoj-Singh/Anoj-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

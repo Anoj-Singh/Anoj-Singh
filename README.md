@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN stack
 - 🌱 ’m currently learning Full-Stack Development(MERN)
 - 💞️ I’m looking to collaborate on Open-source Projects
-- 📫 How to reach me anojsingh9871@gmail.com
+- 📫 How to reach me anojsingh.coder@gmail.com
 
 
 <!---

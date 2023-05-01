@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anoj-Singh
-- 👀 I’m interested in MERN stack
-- 🌱 ’m currently learning Full-Stack Development(MERN)
+- 👀 I’m interested in Frontend Development
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 How to reach me anojsingh.coder@gmail.com
 
